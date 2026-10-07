@@ -36,7 +36,7 @@ export default function Contact() {
                 {
                   icon: MapPin,
                   label: 'Location',
-                  value: 'Calverton Cottage Oakhill Lane Milton Keynes MK196EW',
+                  value: 'United Kingdom',
                   href: null,
                 },
                 {
