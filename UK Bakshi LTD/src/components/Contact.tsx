@@ -30,8 +30,8 @@ export default function Contact() {
                 {
                   icon: Phone,
                   label: 'Call Us',
-                  value: '+44 20 0000 0000',
-                  href: 'tel:+442000000000',
+                  value: '+44 79 803 1948',
+                  href: 'tel:+447984031948',
                 },
                 {
                   icon: MapPin,
