@@ -30,7 +30,7 @@ export default function Contact() {
                 {
                   icon: Phone,
                   label: 'Call Us',
-                  value: '+44 79 803 1948',
+                  value: '+44(0)7984031948',
                   href: 'tel:+447984031948',
                 },
                 {
